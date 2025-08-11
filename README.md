@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyn9&layout=compact&langs_count=6&theme=tokyonight" alt="streak Nyn9" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Nyn9&show_icons=true&theme=tokyonight" alt="stats Nyn9" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nyn9&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak Nyn9" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nyn9&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak Nyn9" /> -->
 </p>
 
 ---
