@@ -25,7 +25,7 @@
 |--------|-------------|----------|
 | [ft_irc](https://github.com/Nyn9/IRC.git) | Serveur IRC en C++ compatible irssi | C++ |
 | [cub3d](https://github.com/Nyn9/Cub3d.git) | Moteur 3D avec raycasting en C | C |
-| ft_transcendence (WIP) | WebApp multi-joueurs avec chat & jeu Pong | TypeScript, NestJS, React |
+| ft_transcendence (WIP) | WebApp multi-joueurs avec chat & jeu Pong | TypeScript, NodeJS, SQLite |
 
 ---
 
