@@ -26,6 +26,7 @@
 | [cub3d](https://github.com/Nyn9/Cub3d.git) | Moteur 3D avec raycasting en C | C |
 | [ft_irc](https://github.com/Nyn9/IRC.git) | Serveur IRC en C++ compatible irssi | C++ |
 | [ft_linear_regression](https://github.com/Nyn9/ft_linear_regression.git) | Implémentation d’une régression linéaire simple | Python |
+| [Matrix](https://github.com/Nyn9/Matrix.git) | Fonctions de calculs matricielles | C++ |
 
 ---
 
