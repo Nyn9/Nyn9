@@ -19,7 +19,7 @@
 
 ---
 
-## 💼 Projets récents
+## 💼 Projets notables
 
 | Projet | Description | Langages |
 |--------|-------------|----------|
